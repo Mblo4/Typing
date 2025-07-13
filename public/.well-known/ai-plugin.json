@@ -11,7 +11,7 @@
     "type": "openapi",
     "url": "https://mblo4.vercel.app/openapi.yaml"
   },
-  "logo_url": "https://dein-vercel-name.vercel.app/logo.png",
+  "logo_url": "https://mblo4.vercel.app/logo.png",
   "contact_email": "dein@email.de",
   "legal_info_url": "https://mblo4.vercel.app/legal"
 }
