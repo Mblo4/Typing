@@ -9,9 +9,9 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://dein-vercel-name.vercel.app/openapi.yaml"
+    "url": "https://mblo4.vercel.app/openapi.yaml"
   },
   "logo_url": "https://dein-vercel-name.vercel.app/logo.png",
   "contact_email": "dein@email.de",
-  "legal_info_url": "https://dein-vercel-name.vercel.app/legal"
+  "legal_info_url": "https://mblo4.vercel.app/legal"
 }
