@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "myplugin",
+  "name_for_human": "Mein Plugin",
+  "description_for_model": "Ein Demoplugin für TypingMind-Kompatibilität.",
+  "description_for_human": "Sagt Hallo als API.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://dein-vercel-name.vercel.app/openapi.yaml"
+  },
+  "logo_url": "https://dein-vercel-name.vercel.app/logo.png",
+  "contact_email": "dein@email.de",
+  "legal_info_url": "https://dein-vercel-name.vercel.app/legal"
+}
